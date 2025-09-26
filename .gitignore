@@ -1,0 +1,8 @@
+.uv-python
+.idea
+.venv
+.__pycache__
+*.pyc
+.DS_Store
+.vscode
+uv.lock
